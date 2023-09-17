@@ -146,10 +146,6 @@ img {
     box-shadow: -5px -5px 20px rgba(0, 0, 0, 0.712), 5px 5px 20px black;
 }
 
-#mission .vision:last-child {
-    margin-right: 0;
-}
-
 #mission .vision h3 {
     margin: 20px;
     text-align: center;
